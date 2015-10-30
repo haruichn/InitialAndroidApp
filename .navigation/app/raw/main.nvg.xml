@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<navigationModel
+  ns = "http://schemas.android.com?import=com.android.tools.idea.editors.navigation.model.*">
+  <locations  
+    class = "java.util.ArrayList">
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "net.harulabo.icchi.initialapp.Main22Activity"/>
+      <point      
+        x = "3012"      
+        y = "288"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "net.harulabo.icchi.initialapp.Main3Activity3"/>
+      <point      
+        x = "1616"      
+        y = "920"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "net.harulabo.icchi.initialapp.MainActivity"/>
+      <point      
+        x = "232"      
+        y = "28"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.MenuState"      
+        className = "net.harulabo.icchi.initialapp.MainActivity"/>
+      <point      
+        x = "3036"      
+        y = "100"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "net.harulabo.icchi.initialapp.MainActivity4"/>
+      <point      
+        x = "2700"      
+        y = "-20"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "net.harulabo.icchi.initialapp.MainActivity3"/>
+      <point      
+        x = "1624"      
+        y = "904"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "net.harulabo.icchi.initialapp.MainActivity2"/>
+      <point      
+        x = "1608"      
+        y = "-624"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "net.harulabo.icchi.initialapp.Main2Activity"/>
+      <point      
+        x = "3104"      
+        y = "88"/>
+    </statePointEntry>
+  </locations>
+</navigationModel>
